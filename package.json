@@ -1,0 +1,16 @@
+{
+    "name": "my-render-app",
+    "version": "1.0.0",
+    "description": "A simple Node.js app for Render deployment",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js"
+    },
+    "engines": {
+      "node": "18.x"
+    },
+    "dependencies": {
+      "express": "^4.18.2"
+    }
+  }
+  
