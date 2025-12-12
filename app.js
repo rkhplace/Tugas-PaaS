@@ -5,7 +5,7 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 
 app.get("/", (req, res) => {
-  res.send("Halo! Aplikasi Anda berjalan lancar di Render 🚀");
+  res.send("Halo! Aplikasi Kelompok 01 Tugas Komputasi Awan Anda berjalan lancar di Render 🚀");
 });
 
 app.get("/api/data", (req, res) => {
